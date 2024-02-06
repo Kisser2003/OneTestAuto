@@ -1,5 +1,3 @@
-import {response} from "express";
-
 const request = require('supertest');
 const server = require('./server');
 
